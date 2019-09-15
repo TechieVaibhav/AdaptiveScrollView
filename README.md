@@ -1,3 +1,3 @@
 # AdaptiveScrollView
 
-![](https://github.com/TechieVaibhav/AdaptiveScrollView/blob/master/video.gif)
+![](https://github.com/TechieVaibhav/AdaptiveScrollView/blob/master/newScroll.gif)
